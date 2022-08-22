@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=HEEJAE_LEE&fontSize=90)
-
+## HeeJae Lee
 Hi! My name is HeeJae Lee.  
 I'm a front-end developer.
 
