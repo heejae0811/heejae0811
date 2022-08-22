@@ -13,7 +13,10 @@ I'm a front-end developer.
 
 <br>
 
+## Languaeg
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heejae0811&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
 ## GitHub Stats
-
-
-![HEEJAE's GitHub stats](https://github-readme-stats.vercel.app/api?username=heejae0811&show_icons=true&theme=cobalt) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heejae0811&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![HEEJAE's GitHub stats](https://github-readme-stats.vercel.app/api?username=heejae0811&show_icons=true&theme=cobalt) 
