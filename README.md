@@ -1,5 +1,4 @@
-## 안녕하세요, 이희재입니다.
-프론트앤드 개발자가 되긴 위한 과정  
+## Welcome, my github
 https://jae-study.tistory.com/
 
 <br>
