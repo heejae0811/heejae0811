@@ -43,49 +43,14 @@ An AI-powered climbing performance analysis and coaching system developed as par
 
 ## Tech Stack
 
-### Languages
-
-- Python
-- TypeScript
-- JavaScript
-- SQL
-
-### Frontend
-
-- React
-- React Native
-- Expo
-- HTML
-- CSS
-
-### Backend
-
-- FastAPI
-- REST API
-
-### AI / Machine Learning
-
-- MediaPipe
-- scikit-learn
-- LIME
-- Google Gemini API
-- pandas
-- NumPy
-
-### Database & Cloud
-
-- Supabase
-- PostgreSQL
-- Google Cloud Run
-- Vercel
-
-### Tools
-
-- Git
-- GitHub
-- Android Studio
-- PyCharm
-- VS Code
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | Python · TypeScript · JavaScript · SQL |
+| **Frontend** | React · React Native · Expo · HTML · CSS |
+| **Backend** | FastAPI · REST API |
+| **AI / ML** | MediaPipe · scikit-learn · LIME · Google Gemini API · pandas · NumPy |
+| **Database & Cloud** | Supabase · PostgreSQL · Google Cloud Run · Vercel |
+| **Tools** | Git · GitHub · Android Studio · PyCharm · VS Code |
 
 ---
 
@@ -103,10 +68,5 @@ An AI-powered climbing performance analysis and coaching system developed as par
 
 ## Contact
 
-Number: 010-8993-1280
-
----
-
-## Technical Blog
-
-https://jae-study.tistory.com/
+Number: 010-8993-1280  
+Tistory: https://jae-study.tistory.com
