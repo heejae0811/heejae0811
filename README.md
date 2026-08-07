@@ -13,7 +13,7 @@
 
 ### 🧗 AI Climbing Coach
 
-An AI-powered climbing performance analysis and coaching system developed as part of my graduate research.
+An AI-based climbing performance analysis and coaching system developed as part of my graduate research.
 
 **Tech Stack**
 
