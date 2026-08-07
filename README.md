@@ -3,7 +3,7 @@
 ## About Me
 
 - M.S. in Physical Education, Yonsei University
-- B.S. in Telecommunication Engineering
+- B.S. in Telecommunication Engineering, Yonsei University
 - Interested in Computer Vision, Machine Learning, Explainable AI (XAI), Large Language Models (LLMs), and Sports AI
 - Developing AI-powered applications for sports performance analysis and digital healthcare
 
@@ -31,7 +31,7 @@ An AI-powered climbing performance analysis and coaching system developed as par
 **Repositories**
 
 - Frontend  
-  https://github.com/heejae0811/AIClimbingCoach
+https://github.com/heejae0811/AIClimbingCoach
 
 - Backend  
   https://github.com/heejae0811/AIClimbingCoach_backend
