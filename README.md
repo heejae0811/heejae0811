@@ -50,7 +50,7 @@ https://github.com/heejae0811/AIClimbingCoach
 | **Backend** | FastAPI · REST API |
 | **AI / ML** | MediaPipe · scikit-learn · LIME · Google Gemini API · pandas · NumPy |
 | **Database & Cloud** | Supabase · PostgreSQL · Google Cloud Run · Vercel |
-| **Tools** | Git · GitHub · Android Studio · PyCharm · VS Code |
+| **Tools** | Git · GitHub · Android Studio · PyCharm |
 
 ---
 
